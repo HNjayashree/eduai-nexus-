@@ -1,3 +1,13 @@
+## Team
+**Team name:** Mahadev
+ 
+**Project:** EduAI Nexus
+**Event:** WitchHunt Hackathon
+**Track:**  EdTech
+ 
+---
+ 
+
 🎓 EduAI Nexus
 ### AI-Powered Smart Education Ecosystem
 > *Transforming learning, accessibility, and education management through intelligent AI modules.*
