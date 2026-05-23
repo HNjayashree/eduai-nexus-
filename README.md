@@ -396,6 +396,7 @@ npm start
 ---
  
 ## Team
+**Team name:** Mahadev
  
 **Project:** EduAI Nexus
 **Event:** WitchHunt Hackathon
@@ -403,4 +404,3 @@ npm start
  
 ---
  
-*Built with ❤️ to make quality education accessible to every student, everywhere.*
