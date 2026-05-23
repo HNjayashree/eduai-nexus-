@@ -2,7 +2,7 @@
 ### AI-Powered Smart Education Ecosystem
 > *Transforming learning, accessibility, and education management through intelligent AI modules.*
 
-🔗* 🚀 Live Project:* [https://edu-ai-nexus--QUEENJAYA19.replit.app](https://edu-ai-nexus--QUEENJAYA19.replit.app)
+🔗🚀 Live Project: [https://edu-ai-nexus--QUEENJAYA19.replit.app](https://edu-ai-nexus--QUEENJAYA19.replit.app)
 
  
 ---
