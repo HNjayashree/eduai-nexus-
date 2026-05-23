@@ -1,7 +1,9 @@
 🎓 EduAI Nexus
 ### AI-Powered Smart Education Ecosystem
- 
 > *Transforming learning, accessibility, and education management through intelligent AI modules.*
+
+🔗 **Live Demo:** [https://edu-ai-nexus--QUEENJAYA19.replit.app](https://edu-ai-nexus--QUEENJAYA19.replit.app)
+
  
 ---
  
@@ -28,7 +30,7 @@
 ┌──────────────────────────────────────────────────────────────┐
 │                        EduAI Nexus                           │
 │                                                              │
-│   👨‍🎓 Students    👩‍🏫 Teachers    🏛️ Policymakers             │
+│   👨‍🎓 Students /teachers   👩‍🏫 students/teachers   🏛️ Policymakers             │
 │        │               │                  │                  │
 │   Personalized     Micro Projects    Resource Allocation     │
 │   Learning         Virtual Labs      Policy Dashboard        │
